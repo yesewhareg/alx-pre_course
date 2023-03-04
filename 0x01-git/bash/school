@@ -1,1 +1,3 @@
 echo The school!
+#!/bin/bash
+echo "School" 
